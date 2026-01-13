@@ -4,5 +4,6 @@
     PokemonSeletion,
     Title,
     Log,
+    PokemonView,
     Item
 }

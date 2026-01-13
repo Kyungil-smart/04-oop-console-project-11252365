@@ -12,3 +12,4 @@ C:\Users\SangHyeon\RiderProjects\2026-01-13_ConsoleProject\2026-01-13_ConsolePro
 C:\Users\SangHyeon\RiderProjects\2026-01-13_ConsoleProject\2026-01-13_ConsoleProject\obj\Debug\net10.0\2026-01-13_ConsoleProject.pdb
 C:\Users\SangHyeon\RiderProjects\2026-01-13_ConsoleProject\2026-01-13_ConsoleProject\obj\Debug\net10.0\2026-01-13_ConsoleProject.genruntimeconfig.cache
 C:\Users\SangHyeon\RiderProjects\2026-01-13_ConsoleProject\2026-01-13_ConsoleProject\obj\Debug\net10.0\ref\2026-01-13_ConsoleProject.dll
+C:\Users\SangHyeon\RiderProjects\2026-01-13_ConsoleProject\2026-01-13_ConsoleProject\obj\Debug\net10.0\2026-01-13_ConsoleProject.sourcelink.json

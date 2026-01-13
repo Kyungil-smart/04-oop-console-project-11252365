@@ -1,7 +1,0 @@
-﻿
-public static class GameState
-{
-    
-    
-    
-}
